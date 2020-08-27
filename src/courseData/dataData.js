@@ -3,8 +3,8 @@ var dataData = [
     {
       img:"https://img-a.udemycdn.com/course/240x135/1706472_c928_4.jpg",
       title:"Data science-1",
-      instructor:"Kuddus",
-      price:200,
+      Instructor:"Kuddus",
+      Price:200,
       rating:3,
       vote:"1373"
      },

@@ -3,8 +3,8 @@ var mobileData = [
     {
       img:"https://img-a.udemycdn.com/course/240x135/529438_f64b_4.jpg",
       title:"Mobile apps-1",
-      instructor:"Kuddus",
-      price:200,
+      Instructor:"Kuddus",
+      Price:200,
       rating:3,
       vote:"1373"
      },
